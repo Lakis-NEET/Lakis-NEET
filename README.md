@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
+My name is **Muhammad Nasik Iqbal**
+
+I'm currently learning in **Universitas Negeri Semarang**
 <!--
 **Lakis-NEET/Lakis-NEET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
